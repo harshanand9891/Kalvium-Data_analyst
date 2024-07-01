@@ -9,3 +9,5 @@ Installation and Run:
 To install use: pip install requests beautifulsoup4 pandas
 
 To run: python scrape.py
+
+#To open the csv file---> open excel----> then open files-----> then select the csv file and open it.#
